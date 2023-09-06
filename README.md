@@ -1,4 +1,10 @@
-# Create your own Community Cadastre
+<h1 align="center">
+  # [Visit The Meadows Community Cadastre](https://felt.com/map/The-Meadows-Community-Cadastre-zSR9C9CHsOSSy9BIRiv9Ayx4OD?loc=52.939297,-1.145295,17.9z&share=1)
+<br></h1>
+
+<h1 align="center">
+  # Create your own Community Cadastre
+<br></h1>
 
 ## Table of Contents
 1. [Download the Open Source Software](#one-download-software)
@@ -69,6 +75,14 @@
 
 ## THREE: Machine Learning in Jupyter Notebooks to Predict Building Age
 - For full details run the code, and read the comments in the notebooks.
+- But start off here by downloading the code and running locally:
+<br>
+<br>
+1. Clone the directory
+
+```
+$ git clone [https://github.com/InfobyAdrienne/Test-React-Express.git](https://github.com/99ltaylor/community_cadastre.git)
+```
 
 ---
 
