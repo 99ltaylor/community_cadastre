@@ -74,8 +74,7 @@
 - For full details run the code, and read the comments in the notebooks.
 - But start off here by downloading the code and running locally:
 <br>
-<br>
-1. Clone the directory
+Clone the directory
 
 ```
 $ git clone [https://github.com/InfobyAdrienne/Test-React-Express.git](https://github.com/99ltaylor/community_cadastre.git)
