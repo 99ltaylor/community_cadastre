@@ -1,5 +1,7 @@
 ## Initial Steps Towards an Open Cadastre in the UK: A Case Study
 
+# 1. The Meadows Community Cadastre
+
 [Take a closer look](https://felt.com/map/The-Meadows-Community-Cadastre-zSR9C9CHsOSSy9BIRiv9Ayx4OD?loc=52.939297,-1.145295,17.9z&share=1)
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYwdXRnMzlvdDEwdmFnaWtyMXZ3d3duZ3cwdHRzcWhvNmc0ZnUwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YHoKsbmM2UfMdqc3xu/giphy.gif" width="50%" />
@@ -16,7 +18,7 @@
 </div>
 
 
-## Create your own Community Cadastre
+## 2. Create your own Community Cadastre
 
 
 ## Table of Contents
