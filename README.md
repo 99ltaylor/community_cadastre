@@ -2,9 +2,10 @@
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYwdXRnMzlvdDEwdmFnaWtyMXZ3d3duZ3cwdHRzcWhvNmc0ZnUwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YHoKsbmM2UfMdqc3xu/giphy.gif" alt="animation1"/>
+</p>
+<p align="center">
 <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYwdXRnMzlvdDEwdmFnaWtyMXZ3d3duZ3cwdHRzcWhvNmc0ZnUwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YHoKsbmM2UfMdqc3xu/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk5bmpjcDFrZDcycGV0OXFxMzZrbW94M2Y5eTlreDRyeG94cGF5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k1prpnJEY5ni50EiW5/giphy.gif)" alt="animation1"/>
 </p>
-
 
 <div style="text-align: center;">
 
