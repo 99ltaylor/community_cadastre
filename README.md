@@ -4,12 +4,11 @@
 <img src=">>insert gif link here<<" alt="animation1"/>
 </p>
 
-<center>
+<div style="text-align: center;">
 
 [Click here for a closer look](https://felt.com/map/The-Meadows-Community-Cadastre-zSR9C9CHsOSSy9BIRiv9Ayx4OD?loc=52.939297,-1.145295,17.9z&share=1)
 
-</center>
-
+</div>
 
 ## Create your own Community Cadastre
 
