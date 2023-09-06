@@ -1,10 +1,8 @@
-<h1 align="center">
-  # [Visit The Meadows Community Cadastre](#https://felt.com/map/The-Meadows-Community-Cadastre-zSR9C9CHsOSSy9BIRiv9Ayx4OD?loc=52.939297,-1.145295,17.9z&share=1)
-<br></h1>
+## [Visit The Meadows Community Cadastre](#https://felt.com/map/The-Meadows-Community-Cadastre-zSR9C9CHsOSSy9BIRiv9Ayx4OD?loc=52.939297,-1.145295,17.9z&share=1)
 
-<h1 align="center">
-  # Create your own Community Cadastre
-<br></h1>
+
+## Create your own Community Cadastre
+
 
 ## Table of Contents
 1. [Download the Open Source Software](#one-download-software)
