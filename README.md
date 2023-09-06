@@ -1,7 +1,7 @@
 ## A Case Study: The Meadows Community Cadastre
 
 <p align="center">
-<img src=">>insert gif link here<<" alt="animation1"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYwdXRnMzlvdDEwdmFnaWtyMXZ3d3duZ3cwdHRzcWhvNmc0ZnUwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YHoKsbmM2UfMdqc3xu/giphy.gif" alt="animation1"/>
 </p>
 
 <div style="text-align: center;">
