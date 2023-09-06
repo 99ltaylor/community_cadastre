@@ -18,7 +18,7 @@
 
 ## ONE: Download the Open Source Software
 - **Download QGIS**: Get the latest version from [QGIS.org](https://www.qgis.org/en/site/forusers/download.html)
-- **Download QGIS plugins**: Get the latest version from [MichaelMinn.com](https://www.qgis.org/en/site/forusers/download.html](https://michaelminn.com/linux/mmqgis/)
+- **Download QGIS plugins**: Get the latest version from [MichaelMinn.com](https://michaelminn.com/linux/mmqgis/)
 
 ---
 
