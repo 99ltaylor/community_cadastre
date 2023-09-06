@@ -1,6 +1,4 @@
 ## Initial Steps Towards an Open Cadastre in the UK: A Case Study
-![image](https://github.com/99ltaylor/community_cadastre/assets/61777002/d0612c91-8024-4533-8998-9dd5bed1c7ec)
-A Case Study: The Meadows Community Cadastre
 
 [Take a closer look](https://felt.com/map/The-Meadows-Community-Cadastre-zSR9C9CHsOSSy9BIRiv9Ayx4OD?loc=52.939297,-1.145295,17.9z&share=1)
 <p align="center">
