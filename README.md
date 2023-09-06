@@ -29,13 +29,13 @@
 
 ---
 
-## ONE: Download the Open Source Software
+## A: Download the Open Source Software
 - **Download QGIS**: Get the latest version from [QGIS.org](https://www.qgis.org/en/site/forusers/download.html)
 - **Download QGIS plugins**: Get the latest version from [MichaelMinn.com](https://michaelminn.com/linux/mmqgis/)
 
 ---
 
-## TWO: Using QGIS to Map the Geospatial Data
+## B: Using QGIS to Map the Geospatial Data
 
 ### Getting Started
 - **Download files**: Rename the downloaded files as `a_boundary`, `b_land`, etc. to be your new layers, and rearrange them as required.
@@ -88,7 +88,7 @@
 
 ---
 
-## THREE: Machine Learning in Jupyter Notebooks to Predict Building Age
+## C: Machine Learning in Jupyter Notebooks to Predict Building Age
 - For full details run the code, and read the comments in the notebooks.
 - But start off here by downloading the code and running locally:
 <br>
@@ -100,7 +100,7 @@ $ git clone [https://github.com/InfobyAdrienne/Test-React-Express.git](https://g
 
 ---
 
-## FOUR: Using Felt to Upload the Data
+## D: Using Felt to Upload the Data
 - Register for a free account at [Felt.com](https://www.felt.com)
 - Use their drag-and-drop file system to upload your data.
 
