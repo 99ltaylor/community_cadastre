@@ -1,4 +1,4 @@
-## Initial Steps Towards an Open Cadastre in the UK: A Case Study
+<h1 style="text-align: center;">Initial Steps Towards an Open Cadastre in the UK: A Case Study</h1>
 
 # 1. The Meadows Community Cadastre
 
