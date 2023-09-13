@@ -4,11 +4,16 @@
 
 [Take a closer look](https://felt.com/map/The-Meadows-Community-Cadastre-zSR9C9CHsOSSy9BIRiv9Ayx4OD?loc=52.939297,-1.145295,17.9z&share=1)
 
-![Image 1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYwdXRnMzlvdDEwdmFnaWtyMXZ3d3duZ3cwdHRzcWhvNmc0ZnUwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YHoKsbmM2UfMdqc3xu/giphy.gif)
-![Image 2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlya2xxb2hpMnUzOTlhMHI1ejI2NGZpY29mZXlkanhtdGx3azE1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dbZOkmNgi1HgpsNtBs/giphy.gif)
-![Image 3](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRkaXI0bGdhNWY1eWh2MGNnbnNmeHExeDYxMTZvYWNpc29tYXR0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HT8jUjaviZSOjWAue0/giphy.gif)
-![Image 4](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFuMTEwcGNkMjVtd3FzdDV4bjRkY290dnBoYjliaDhydmFtMHJpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ojUq32cEHHYj39DwBW/giphy.gif)
-</div>
+<table>
+  <tr>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYwdXRnMzlvdDEwdmFnaWtyMXZ3d3duZ3cwdHRzcWhvNmc0ZnUwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YHoKsbmM2UfMdqc3xu/giphy.gif" alt="Image 1"/></td>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlya2xxb2hpMnUzOTlhMHI1ejI2NGZpY29mZXlkanhtdGx3azE1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dbZOkmNgi1HgpsNtBs/giphy.gif" alt="Image 2"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRkaXI0bGdhNWY1eWh2MGNnbnNmeHExeDYxMTZvYWNpc29tYXR0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HT8jUjaviZSOjWAue0/giphy.gif" alt="Image 3"/></td>
+    <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFuMTEwcGNkMjVtd3FzdDV4bjRkY290dnBoYjliaDhydmFtMHJpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ojUq32cEHHYj39DwBW/giphy.gif" alt="Image 4"/></td>
+  </tr>
+</table>
 
 # 2. Create your own Community Cadastre
 
