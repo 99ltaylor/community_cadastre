@@ -2,8 +2,6 @@
 
 # 1. The Meadows Community Cadastre
 
-[Take a closer look](https://felt.com/map/The-Meadows-Community-Cadastre-zSR9C9CHsOSSy9BIRiv9Ayx4OD?loc=52.939297,-1.145295,17.9z&share=1)
-
 <table>
   <tr>
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYwdXRnMzlvdDEwdmFnaWtyMXZ3d3duZ3cwdHRzcWhvNmc0ZnUwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YHoKsbmM2UfMdqc3xu/giphy.gif" alt="Image 1"/></td>
@@ -14,6 +12,12 @@
     <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFuMTEwcGNkMjVtd3FzdDV4bjRkY290dnBoYjliaDhydmFtMHJpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ojUq32cEHHYj39DwBW/giphy.gif" alt="Image 4"/></td>
   </tr>
 </table>
+
+<div align="center">
+
+[Take a closer look](https://felt.com/map/The-Meadows-Community-Cadastre-zSR9C9CHsOSSy9BIRiv9Ayx4OD?loc=52.939297,-1.145295,17.9z&share=1)
+
+</div>
 
 # 2. Create your own Community Cadastre
 
